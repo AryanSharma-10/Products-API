@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This is a very basic API project that I made while learning nestjs which allows users to create, fetch, patch and delete products (CRUD). 
 
 ## Installation
 
